@@ -6,7 +6,6 @@
     "deviceType": "Laptop",
     "os": "macOS",
     "chip": "Apple A18 Pro",
-    "screen": "13.0\" Liquid Retina",
     "image": "https://sararose686.github.io/tech-devices-api/images/macbook-neo.webp",
     "link": "https://www.apple.com/macbook-neo/"
   },
@@ -17,7 +16,6 @@
     "deviceType": "Laptop",
     "os": "macOS",
     "chip": "Apple M5",
-    "screen": "13.6\" Liquid Retina",
     "image": "https://sararose686.github.io/tech-devices-api/images/macbook-air.webp",
     "link": "https://www.apple.com/macbook-air/"
   },
@@ -28,7 +26,6 @@
     "deviceType": "Laptop",
     "os": "macOS",
     "chip": "Apple M6",
-    "screen": "14.2\" Liquid Retina XDR",
     "image": "https://sararose686.github.io/tech-devices-api/images/macbook-pro.webp",
     "link": "https://www.apple.com/macbook-pro/liquid-retina-xdr-display/"
   },
@@ -39,7 +36,6 @@
     "deviceType": "Tablet",
     "os": "iPadOS",
     "chip": "Apple A20 Pro",
-    "screen": "8.5\" Super Retina XDR",
     "image": "https://sararose686.github.io/tech-devices-api/images/ipad-mini.webp",
     "link": "https://www.apple.com/ipad-mini/"
   },
@@ -50,7 +46,6 @@
     "deviceType": "Tablet",
     "os": "iPadOS",
     "chip": "Apple A16",
-    "screen": "11.0\" Liquid Retina",
     "image": "https://sararose686.github.io/tech-devices-api/images/ipad.webp",
     "link": "https://www.apple.com/ipad-10.9/"
   },
@@ -61,7 +56,6 @@
     "deviceType": "Tablet",
     "os": "iPadOS",
     "chip": "Apple M4",
-    "screen": "13.0\" Liquid Retina",
     "image": "https://sararose686.github.io/tech-devices-api/images/ipad-air.webp",
     "link": "https://www.apple.com/ipad-air/"
   },
@@ -72,7 +66,6 @@
     "deviceType": "Smartphone",
     "os": "iOS",
     "chip": "Apple A19 Pro",
-    "screen": "6.5\" Super Retina XDR",
     "image": "https://sararose686.github.io/tech-devices-api/images/iphone-air.webp",
     "link": "https://www.apple.com/iphone-air/"
   },
@@ -83,7 +76,6 @@
     "deviceType": "Smartphone",
     "os": "iOS",
     "chip": "Apple A19",
-    "screen": "6.1\" Super Retina XDR",
     "image": "https://sararose686.github.io/tech-devices-api/images/iphone-17e.webp",
     "link": "https://www.apple.com/iphone-17e/"
   },
@@ -94,7 +86,6 @@
     "deviceType": "Smartphone",
     "os": "iOS",
     "chip": "Apple A20 Pro",
-    "screen": "6.3\" Super Retina XDR",
     "image": "https://sararose686.github.io/tech-devices-api/images/iphone-18-pro.webp",
     "link": "https://www.apple.com/iphone-18-pro/"
   },
@@ -105,7 +96,6 @@
     "deviceType": "Laptop",
     "os": "Windows 11",
     "chip": "Snapdragon X",
-    "screen": "15.6\" IPS",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-book4-edge15.webp",
     "link": "https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-edge-15-6-inch/"
   },
@@ -116,7 +106,6 @@
     "deviceType": "Laptop",
     "os": "Windows 11",
     "chip": "Intel Core 5",
-    "screen": "14.0\" IPS",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-book6.webp",
     "link": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-intel-core/"
   },
@@ -127,7 +116,6 @@
     "deviceType": "Laptop",
     "os": "Windows 11",
     "chip": "Intel Core 7",
-    "screen": "16.0\" Dynamic AMOLED 2X",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-book6-ultra.webp",
     "link": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-ultra/"
   },
@@ -138,7 +126,6 @@
     "deviceType": "Tablet",
     "os": "Android",
     "chip": "MediaTek Dimensity 7300",
-    "screen": "11\" TFT LCD",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-tab-a11-plus.webp",
     "link": "https://www.samsung.com/us/tablets/galaxy-tab-a11-plus/"
   },
@@ -149,7 +136,6 @@
     "deviceType": "Tablet",
     "os": "Android",
     "chip": "MediaTek Dimensity 9400+",
-    "screen": "11\" Dynamic AMOLED 2X",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-tab-s11.webp",
     "link": "https://www.samsung.com/us/tablets/galaxy-tab-s11/"
   },
@@ -160,7 +146,6 @@
     "deviceType": "Tablet",
     "os": "Android",
     "chip": "MediaTek Dimensity 9500",
-    "screen": "14.6\" Dynamic AMOLED 2X",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-tab-s12-ultra.webp",
     "link": "https://www.samsung.com/us/tablets/galaxy-tab-s12/"
   },
@@ -171,7 +156,6 @@
     "deviceType": "Smartphone",
     "os": "Android",
     "chip": "Snapdragon 8 Gen 5 for Galaxy",
-    "screen": "7.6\" Dynamic AMOLED 2X",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-z-fold8.webp",
     "link": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/"
   },
@@ -182,7 +166,6 @@
     "deviceType": "Smartphone",
     "os": "Android",
     "chip": "Snapdragon 8 Elite Gen 5 for Galaxy",
-    "screen": "6.3\" Dynamic AMOLED 2X",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-s26.webp",
     "link": "https://www.samsung.com/us/smartphones/galaxy-s26/"
   },
@@ -193,7 +176,6 @@
     "deviceType": "Smartphone",
     "os": "Android",
     "chip": "Exynos 1680",
-    "screen": "6.7\" Super AMOLED+",
     "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-a57.webp",
     "link": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/"
   }
