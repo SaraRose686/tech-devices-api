@@ -5,11 +5,10 @@
     "brand": "Apple",
     "deviceType": "Laptop",
     "os": "macOS",
-    "chip": "Apple Silicon",
-    "screen": "12.0\" Retina",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/macbook-neo.jpg",
-    "link": "https://www.apple.com/mac/"
+    "chip": "Apple A18 Pro",
+    "screen": "13.0\" Liquid Retina",
+    "image": "https://sararose686.github.io/tech-devices-api/images/macbook-neo.webp",
+    "link": "https://www.apple.com/macbook-neo/"
   },
   {
     "deviceId": "dev-02",
@@ -17,23 +16,21 @@
     "brand": "Apple",
     "deviceType": "Laptop",
     "os": "macOS",
-    "chip": "M3",
+    "chip": "Apple M5",
     "screen": "13.6\" Liquid Retina",
-    "releaseYear": 2024,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/macbook-air-13.jpg",
+    "image": "https://sararose686.github.io/tech-devices-api/images/macbook-air.webp",
     "link": "https://www.apple.com/macbook-air/"
   },
   {
     "deviceId": "dev-03",
-    "modelName": "MacBook Pro 16\"",
+    "modelName": "MacBook Pro 14\"",
     "brand": "Apple",
     "deviceType": "Laptop",
     "os": "macOS",
-    "chip": "M3 Max",
-    "screen": "16.2\" Liquid Retina XDR",
-    "releaseYear": 2024,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/macbook-pro-16.jpg",
-    "link": "https://www.apple.com/macbook-pro/"
+    "chip": "Apple M6",
+    "screen": "14.2\" Liquid Retina XDR",
+    "image": "https://sararose686.github.io/tech-devices-api/images/macbook-pro.webp",
+    "link": "https://www.apple.com/macbook-pro/liquid-retina-xdr-display/"
   },
   {
     "deviceId": "dev-04",
@@ -41,10 +38,9 @@
     "brand": "Apple",
     "deviceType": "Tablet",
     "os": "iPadOS",
-    "chip": "A17 Pro",
-    "screen": "8.3\" Liquid Retina",
-    "releaseYear": 2024,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/ipad-mini.jpg",
+    "chip": "Apple A20 Pro",
+    "screen": "8.5\" Super Retina XDR",
+    "image": "https://sararose686.github.io/tech-devices-api/images/ipad-mini.webp",
     "link": "https://www.apple.com/ipad-mini/"
   },
   {
@@ -53,22 +49,20 @@
     "brand": "Apple",
     "deviceType": "Tablet",
     "os": "iPadOS",
-    "chip": "A14 Bionic",
-    "screen": "10.9\" Liquid Retina",
-    "releaseYear": 2022,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/ipad.jpg",
+    "chip": "Apple A16",
+    "screen": "11.0\" Liquid Retina",
+    "image": "https://sararose686.github.io/tech-devices-api/images/ipad.webp",
     "link": "https://www.apple.com/ipad-10.9/"
   },
   {
     "deviceId": "dev-06",
-    "modelName": "iPad Air",
+    "modelName": "iPad Air 13\"",
     "brand": "Apple",
     "deviceType": "Tablet",
     "os": "iPadOS",
-    "chip": "M2",
-    "screen": "11.0\" Liquid Retina",
-    "releaseYear": 2024,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/ipad-air.jpg",
+    "chip": "Apple M4",
+    "screen": "13.0\" Liquid Retina",
+    "image": "https://sararose686.github.io/tech-devices-api/images/ipad-air.webp",
     "link": "https://www.apple.com/ipad-air/"
   },
   {
@@ -77,11 +71,10 @@
     "brand": "Apple",
     "deviceType": "Smartphone",
     "os": "iOS",
-    "chip": "A19",
+    "chip": "Apple A19 Pro",
     "screen": "6.5\" Super Retina XDR",
-    "releaseYear": 2025,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/iphone-air.jpg",
-    "link": "https://www.apple.com/iphone/"
+    "image": "https://sararose686.github.io/tech-devices-api/images/iphone-air.webp",
+    "link": "https://www.apple.com/iphone-air/"
   },
   {
     "deviceId": "dev-08",
@@ -89,11 +82,10 @@
     "brand": "Apple",
     "deviceType": "Smartphone",
     "os": "iOS",
-    "chip": "A18",
-    "screen": "6.1\" OLED",
-    "releaseYear": 2025,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/iphone-17e.jpg",
-    "link": "https://www.apple.com/iphone/"
+    "chip": "Apple A19",
+    "screen": "6.1\" Super Retina XDR",
+    "image": "https://sararose686.github.io/tech-devices-api/images/iphone-17e.webp",
+    "link": "https://www.apple.com/iphone-17e/"
   },
   {
     "deviceId": "dev-09",
@@ -101,71 +93,65 @@
     "brand": "Apple",
     "deviceType": "Smartphone",
     "os": "iOS",
-    "chip": "A20 Pro",
-    "screen": "6.7\" Super Retina XDR ProMotion",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/iphone-18-pro.jpg",
-    "link": "https://www.apple.com/iphone/"
+    "chip": "Apple A20 Pro",
+    "screen": "6.3\" Super Retina XDR",
+    "image": "https://sararose686.github.io/tech-devices-api/images/iphone-18-pro.webp",
+    "link": "https://www.apple.com/iphone-18-pro/"
   },
   {
     "deviceId": "dev-10",
-    "modelName": "Galaxy Chromebook Plus",
+    "modelName": "Galaxy Book4 Edge 15",
     "brand": "Samsung",
     "deviceType": "Laptop",
-    "os": "ChromeOS",
-    "chip": "Intel Core 3",
-    "screen": "15.6\" FHD OLED",
-    "releaseYear": 2024,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-chromebook-plus.jpg",
-    "link": "https://www.samsung.com/us/computing/chromebooks/"
+    "os": "Windows 11",
+    "chip": "Snapdragon X",
+    "screen": "15.6\" IPS",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-book4-edge15.webp",
+    "link": "https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-edge-15-6-inch/"
   },
   {
     "deviceId": "dev-11",
-    "modelName": "Galaxy Book 6",
+    "modelName": "Galaxy Book6",
     "brand": "Samsung",
     "deviceType": "Laptop",
     "os": "Windows 11",
-    "chip": "Intel Core Ultra",
-    "screen": "15.6\" AMOLED",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-book-6.jpg",
-    "link": "https://www.samsung.com/us/computing/galaxy-books/"
+    "chip": "Intel Core 5",
+    "screen": "14.0\" IPS",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-book6.webp",
+    "link": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-intel-core/"
   },
   {
     "deviceId": "dev-12",
-    "modelName": "Galaxy Book 5 Pro 360",
+    "modelName": "Galaxy Book6 Ultra",
     "brand": "Samsung",
     "deviceType": "Laptop",
     "os": "Windows 11",
-    "chip": "Intel Core Ultra Series 2",
+    "chip": "Intel Core 7",
     "screen": "16.0\" Dynamic AMOLED 2X",
-    "releaseYear": 2024,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-book-5-pro-360.jpg",
-    "link": "https://www.samsung.com/us/computing/galaxy-books/"
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-book6-ultra.webp",
+    "link": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-ultra/"
   },
   {
     "deviceId": "dev-13",
-    "modelName": "Galaxy Tab S12+",
-    "brand": "Samsung",
-    "deviceType": "Tablet",
-    "os": "Android",
-    "chip": "Snapdragon 8 Gen 5",
-    "screen": "12.4\" Dynamic AMOLED 2X",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-tab-s12-plus.jpg",
-    "link": "https://www.samsung.com/us/tablets/"
-  },
-  {
-    "deviceId": "dev-14",
     "modelName": "Galaxy Tab A11+",
     "brand": "Samsung",
     "deviceType": "Tablet",
     "os": "Android",
-    "chip": "Exynos 1380",
-    "screen": "11.0\" LCD",
-    "releaseYear": 2025,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-tab-a11-plus.jpg",
-    "link": "https://www.samsung.com/us/tablets/"
+    "chip": "MediaTek Dimensity 7300",
+    "screen": "11\" TFT LCD",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-tab-a11-plus.webp",
+    "link": "https://www.samsung.com/us/tablets/galaxy-tab-a11-plus/"
+  },
+  {
+    "deviceId": "dev-14",
+    "modelName": "Galaxy Tab S11",
+    "brand": "Samsung",
+    "deviceType": "Tablet",
+    "os": "Android",
+    "chip": "MediaTek Dimensity 9400+",
+    "screen": "11\" Dynamic AMOLED 2X",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-tab-s11.webp",
+    "link": "https://www.samsung.com/us/tablets/galaxy-tab-s11/"
   },
   {
     "deviceId": "dev-15",
@@ -173,11 +159,10 @@
     "brand": "Samsung",
     "deviceType": "Tablet",
     "os": "Android",
-    "chip": "Snapdragon 8 Gen 5",
+    "chip": "MediaTek Dimensity 9500",
     "screen": "14.6\" Dynamic AMOLED 2X",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-tab-s12-ultra.jpg",
-    "link": "https://www.samsung.com/us/tablets/"
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-tab-s12-ultra.webp",
+    "link": "https://www.samsung.com/us/tablets/galaxy-tab-s12/"
   },
   {
     "deviceId": "dev-16",
@@ -186,33 +171,30 @@
     "deviceType": "Smartphone",
     "os": "Android",
     "chip": "Snapdragon 8 Gen 5 for Galaxy",
-    "screen": "7.6\" Dynamic AMOLED 2X Flex",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-z-fold8.jpg",
-    "link": "https://www.samsung.com/us/smartphones/galaxy-z-fold/"
+    "screen": "7.6\" Dynamic AMOLED 2X",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-z-fold8.webp",
+    "link": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/"
   },
   {
     "deviceId": "dev-17",
-    "modelName": "Galaxy S26+",
+    "modelName": "Galaxy S26",
     "brand": "Samsung",
     "deviceType": "Smartphone",
     "os": "Android",
-    "chip": "Snapdragon 8 Gen 5",
-    "screen": "6.7\" Dynamic AMOLED 2X",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-s26-plus.jpg",
-    "link": "https://www.samsung.com/us/smartphones/galaxy-s/"
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy",
+    "screen": "6.3\" Dynamic AMOLED 2X",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-s26.webp",
+    "link": "https://www.samsung.com/us/smartphones/galaxy-s26/"
   },
   {
     "deviceId": "dev-18",
-    "modelName": "Galaxy A57",
+    "modelName": "Galaxy A57 5G",
     "brand": "Samsung",
     "deviceType": "Smartphone",
     "os": "Android",
-    "chip": "Exynos 1580",
-    "screen": "6.6\" Super AMOLED",
-    "releaseYear": 2026,
-    "image": "https://raw.githubusercontent.com/placeholder/devices/main/images/galaxy-a57.jpg",
-    "link": "https://www.samsung.com/us/smartphones/galaxy-a/"
+    "chip": "Exynos 1680",
+    "screen": "6.7\" Super AMOLED+",
+    "image": "https://sararose686.github.io/tech-devices-api/images/galaxy-a57.webp",
+    "link": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/"
   }
 ]
